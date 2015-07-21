@@ -335,7 +335,7 @@
 (defn- write-to-temp-table
   [entries]
   {:pre [(sequential? entries)
-         #_(every? valid-entry? entries)]
+         (every? valid-entry? entries)]
    :post [(sequential? %)
           (= (count %) (count entries))]}
   (let [result (apply jdbc/insert! *db-con* new-messages-table entries)]

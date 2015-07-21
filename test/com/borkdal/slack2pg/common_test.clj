@@ -15,7 +15,6 @@
     (parse-timestamp-value {:timestamp "1437186020.008831"})))
   => (to-date-time "2015-07-18T02:20:20.009Z"))
 
-
 (facts "flushable-partition-all"
   (fact "straight-forward"
     (transduce (flushable-partition-all 3) conj [1 2 :flush 3 4 5 6 7 :flush 8 9])
