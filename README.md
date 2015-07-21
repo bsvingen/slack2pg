@@ -1,3 +1,4 @@
+[![travis-ci.org](https://travis-ci.org/bsvingen/slack2pg.svg?branch=master)](https://travis-ci.org/bsvingen/slack2pg)
 
 # slack2pg
 
