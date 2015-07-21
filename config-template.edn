@@ -1,0 +1,11 @@
+{
+ ;; PostgreSQL credentials
+ :db-host ""
+ :db-port nil
+ :db-name ""
+ :db-user ""
+ :db-password ""
+
+ ;; Slack team info - team-id only required for reading export files
+ :team ""
+ :team-id ""}

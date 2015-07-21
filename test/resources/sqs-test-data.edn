@@ -1,0 +1,70 @@
+({:body
+  "{\"user_id\":\"user_id_1\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_1\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437186020.008831\",\"text\":\"The first line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}}
+ {:body
+  "{\"user_id\":\"user_id_1\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_1\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437186375.008840\",\"text\":\"The second line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}}
+ {:body
+  "{\"user_id\":\"user_id_1\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_1\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437186670.008846\",\"text\":\"The third line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}}
+ {:body
+  "{\"user_id\":\"user_id_1\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_1\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437186675.008847\",\"text\":\"The fourth line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}}
+ {:body
+  "{\"user_id\":\"user_id_2\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_2\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437171082.008762\",\"text\":\"The fifth line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}}
+ {:body
+  "{\"user_id\":\"user_id_2\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_2\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437190134.008854\",\"text\":\"The sixth line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}}
+ {:body
+  "{\"user_id\":\"user_id_2\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_2\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437177084.008777\",\"text\":\"The seventh line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}}
+ {:body
+  "{\"user_id\":\"user_id_1\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_1\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437190598.008860\",\"text\":\"The eight line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}}
+ {:body
+  "{\"user_id\":\"user_id_1\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_1\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437190564.008859\",\"text\":\"The ninth line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}}
+ {:body
+  "{\"user_id\":\"user_id_1\",\"token\":\"a_token\",\"channel_id\":\"a_channel\",\"user_name\":\"user_1\",\"team_domain\":\"a_team\",\"service_id\":\"a_service\",\"team_id\":\"team_id\",\"timestamp\":\"1437186424.008841\",\"text\":\"The tenth line.\",\"channel_name\":\"general\"}",
+  :body-md5 "An md5 hash",
+  :id "Some ID",
+  :receipt-handle "A receipt handle",
+  :attrs {},
+  :meta {}})
