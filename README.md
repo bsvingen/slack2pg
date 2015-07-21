@@ -49,7 +49,7 @@ moved somewhere convenient in your path.
 Do
 
 ```bash
-lein bin config.edn aws-create
+slack2pg config.edn aws-create
 ```
 
 to create a CloudFormation stack containing the SQS queue and AWS
