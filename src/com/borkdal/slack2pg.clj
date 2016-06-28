@@ -21,7 +21,13 @@
        (error))
      (config/with-config-file [config-edn-filename]
        (case command
-         "sqs" (sqs/write-all-sqs-messages-to-database)
+         "sqs" (loop []
+                 (try
+                   (sqs/write-all-sqs-messages-to-database)
+                   (catch Throwable e
+                     (println "Caught" e)
+                     (println "Retrying")))
+                 (recur))
          "aws-create" (cloudformation/deploy)
          "read-export" (export/write-export-messages-to-database slack-export-pathname)
          (error))))))
