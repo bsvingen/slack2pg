@@ -3,7 +3,7 @@
   :url "https://github.com/bsvingen/slack2pg"
   :license {:name "Apache License 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0"}
-  :dependencies [[org.clojure/clojure "1.7.0"]
+  :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.postgresql/postgresql "9.4-1201-jdbc41"]
                  [org.clojure/java.jdbc "0.3.7"]
                  [amazonica "0.3.29"]
